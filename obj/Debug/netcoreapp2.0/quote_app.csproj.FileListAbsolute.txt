@@ -1,0 +1,10 @@
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\bin\Debug\netcoreapp2.0\quote_app.deps.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\bin\Debug\netcoreapp2.0\quote_app.runtimeconfig.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\bin\Debug\netcoreapp2.0\quote_app.runtimeconfig.dev.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\bin\Debug\netcoreapp2.0\quote_app.dll
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\bin\Debug\netcoreapp2.0\quote_app.pdb
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\obj\Debug\netcoreapp2.0\quote_app.csproj.CoreCompileInputs.cache
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\obj\Debug\netcoreapp2.0\quote_app.AssemblyInfoInputs.cache
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\obj\Debug\netcoreapp2.0\quote_app.AssemblyInfo.cs
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\obj\Debug\netcoreapp2.0\quote_app.dll
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\quote_app\obj\Debug\netcoreapp2.0\quote_app.pdb
